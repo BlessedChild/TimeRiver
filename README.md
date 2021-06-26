@@ -20,11 +20,10 @@ This is also the origin of the name "Time River"
 2. nodejs 12.0
 3. PM2
 
-
 ## Code
 
 1. express 4x
 
-![Introduction to TimeRiver](https://github.com/BlessedChild/TimeRiver/blob/main/Introduction%20to%20TimeRiver.png?raw=true)
-
 ## Recommended video
+
+![Introduction to TimeRiver](https://github.com/BlessedChild/TimeRiver/blob/main/Introduction%20to%20TimeRiver.png?raw=true)
