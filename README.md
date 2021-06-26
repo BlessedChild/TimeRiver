@@ -7,6 +7,7 @@ In the most basic time, the data of logged-out players will not be cleared from 
 
 This is also the origin of the name "Time River"
 
+![Design ideas](https://github.com/BlessedChild/TimeRiver/blob/main/Design%20ideas.png?raw=true)
 ![Prototype design of TimeRiver](https://github.com/BlessedChild/TimeRiver/blob/main/TimeRiver_20210626.png?raw=true)
 
 ## Ready
