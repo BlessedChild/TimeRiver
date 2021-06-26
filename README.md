@@ -25,4 +25,6 @@ This is also the origin of the name "Time River"
 
 1. express 4x
 
+![Introduction to TimeRiver](https://github.com/BlessedChild/TimeRiver/blob/main/Introduction%20to%20TimeRiver.png?raw=true)
+
 ## Recommended video
