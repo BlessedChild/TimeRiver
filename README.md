@@ -13,4 +13,22 @@ This is also the origin of the name "Time River"
 
 这也是“TimeRiver”名字的由来
 
-![](https://github.com/BlessedChild/TimeRiver/blob/main/TimeRiver_20210626.png?raw=true)
+![Prototype design of TimeRiver](https://github.com/BlessedChild/TimeRiver/blob/main/TimeRiver_20210626.png?raw=true)
+
+## Ready
+
+1. Domain
+2. SSL
+
+## Configuration
+
+1. CentOS 7.0
+2. nodejs 12.0
+3. PM2
+
+
+## Code
+
+1. express 4x
+
+## Recommended video
