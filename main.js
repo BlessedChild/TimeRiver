@@ -19,6 +19,7 @@ var user_aera = []
 var package_area = []
 
 function handleRequset(request, db_user, db_package){
+    console.log("Online players：" + db_user.length)
     if(db_user.length > 0){
         for (var i=0; i<db_user.length; i++)
         {
@@ -35,7 +36,9 @@ function handleRequset(request, db_user, db_package){
         console.log("not found, so add request's date...")
         console.log("old package: ")
         console.log(db_package)
-        db_package[db_user.length] = request
+        console.log("Online players：" + db_user.length)
+        db_user[db_user.length] = request.userid
+        db_package[db_package.length] = request
         console.log("new package: ")
         console.log(db_package)
     }else if(db_user.length == 0){
