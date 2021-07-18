@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: true }));
 app.post('/moge', function (req, res) {
     console.log(req.method)
     console.log(req.body)
-    res.send({"服务的路径和名称": __filename, "操作系统运行的时间": os.uptime(), "Moge已经运行的秒数": process.uptime(), "Moge世界所用的物理内存状况单位为字节": memoryUsage()})
+    res.send({"服务的路径和名称": __filename, "操作系统运行的时间": os.uptime(), "Moge已经运行的秒数": process.uptime(), "Moge世界所用的物理内存状况单位为字节": process.memoryUsage()})
 })
 
 var httpServer = http.createServer(app);
