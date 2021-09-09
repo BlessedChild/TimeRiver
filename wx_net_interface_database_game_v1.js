@@ -82,15 +82,15 @@ app.post('/update', async(req, res) =>{
     
     if(req.body.as_tag == 'update'){
         try {
-            console.log('用户的as_id：' + req.body.as_tag);
-            var search_id = req.body.as_tag
+            console.log('用户的as_id：' + req.body.as_id);
+            var search_id = req.body.as_id
     
             var mysql = require('mysql')
             var connection = mysql.createConnection({
                 host: 'localhost',
-                user: 'root',
-                password: 'v3My6nweuXLL',
-                database: 'arthurslog_bmzx'
+                user: 'xxx',
+                password: 'xxx',
+                database: 'xxx'
             });
             
             var sql_update = 'UPDATE as_table SET as_prop = ? WHERE as_id = ?'
