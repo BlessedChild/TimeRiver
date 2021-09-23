@@ -1,7 +1,7 @@
 # TimeRiver
 MMO Service
 
-Research evidence, we will not forget what we have experienced, but can’t remember
+Research evidence, we will not forget what we have experienced, just can’t remember
 
 In the most basic time, the data of logged-out players will not be cleared from the memory. If you can remember the user name and immediately log in, you can synchronize the data, otherwise, the data will wait forever in the long river of time.
 
