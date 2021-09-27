@@ -54,6 +54,9 @@ var hp = 100;
 var mp = 100;
 var ex = 0;
 
+var maxHp = 200;
+var maxMp = 200;
+
 app.post('/inti', function (req, res) {
     console.log(req.method)
     console.log(req.body)
